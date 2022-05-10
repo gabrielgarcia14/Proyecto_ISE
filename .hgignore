@@ -1,0 +1,5 @@
+^BUILD$
+^.mbed$
+^mbed-os$
+^Ejemplo_6_3$
+^DHT11$
